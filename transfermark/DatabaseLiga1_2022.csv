@@ -1,0 +1,604 @@
+nama,posisi,ttl,value,klub
+Andritany,Kiper,26 Des 1991 (31),"Rp4,35Mlyr.",Persija Jakarta
+Cahya Supriadi,Kiper,11 Feb 2003 (19),"Rp1,30Mlyr.",Persija Jakarta
+Risky Sudirman,Kiper,2 Feb 2002 (20),"Rp1,30Mlyr.",Persija Jakarta
+Adre Arido,Kiper,13 Agt 2003 (19),"Rp434,54Jt.",Persija Jakarta
+Ondrej Kudela,Bek-Tengah,26 Mar 1987 (35),"Rp6,95Mlyr.",Persija Jakarta
+Ryuji Utomo,Bek-Tengah,1 Jul 1995 (27),"Rp4,35Mlyr.",Persija Jakarta
+Hansamu Yama,Bek-Tengah,16 Jan 1995 (27),"Rp3,48Mlyr.",Persija Jakarta
+Muhammad Ferarri,Bek-Tengah,21 Jun 2003 (19),"Rp1,30Mlyr.",Persija Jakarta
+Otávio Dutra,Bek-Tengah,22 Nov 1983 (39),"Rp434,54Jt.",Persija Jakarta
+Maman Abdurahman,Bek-Tengah,12 Mei 1982 (40),"Rp173,82Jt.",Persija Jakarta
+Firza Andika,Bek-Kiri,11 Mei 1999 (23),"Rp3,48Mlyr.",Persija Jakarta
+Rezaldi Hehanusa,Bek-Kiri,7 Nov 1995 (27),"Rp2,17Mlyr.",Persija Jakarta
+Frengky Missa,Bek-Kiri,20 Feb 2004 (18),"Rp869,08Jt.",Persija Jakarta
+Rangga Widiansyah,Bek-Kiri,24 Apr 2002 (20),"Rp869,08Jt.",Persija Jakarta
+Hamra Hehanusa,Bek-Kiri,1 Jul 1999 (23),"Rp434,54Jt.",Persija Jakarta
+Rio Fahmi,Bek-Kanan,6 Okt 2001 (21),"Rp3,04Mlyr.",Persija Jakarta
+Hanif Sjahbandi,Gel. Bertahan,7 Apr 1997 (25),"Rp3,48Mlyr.",Persija Jakarta
+Resky Fandi,Gel. Bertahan,6 Sep 1999 (23),"Rp2,61Mlyr.",Persija Jakarta
+Syahwal Ginting,Gel. Bertahan,1 Des 2003 (19),"Rp869,08Jt.",Persija Jakarta
+Tony Sucipto,Gel. Bertahan,12 Feb 1986 (36),"Rp434,54Jt.",Persija Jakarta
+Hanno Behrens,Gel. Tengah,26 Mar 1990 (32),"Rp9,56Mlyr.",Persija Jakarta
+Syahrian Abimanyu,Gel. Tengah,25 Apr 1999 (23),"Rp3,48Mlyr.",Persija Jakarta
+Resa Aditya,Gel. Tengah,6 Mar 2004 (18),"Rp173,82Jt.",Persija Jakarta
+Braif Fatari,Gel. Serang,9 Apr 2002 (20),"Rp3,04Mlyr.",Persija Jakarta
+Dony Pamungkas,Gel. Serang,11 Jan 2005 (17),"Rp1,30Mlyr.",Persija Jakarta
+Raka Cahyana,Gel. Serang,24 Feb 2004 (18),"Rp869,08Jt.",Persija Jakarta
+Osvaldo Haay,Sayap Kiri,17 Mei 1998 (24),"Rp3,91Mlyr.",Persija Jakarta
+Riko Simanjuntak,Sayap Kanan,26 Jan 1992 (30),"Rp3,91Mlyr.",Persija Jakarta
+Alfriyanto Nico,Sayap Kanan,3 Apr 2003 (19),"Rp1,74Mlyr.",Persija Jakarta
+Michael Krmencik,Depan-Tengah,15 Mar 1993 (29),"Rp26,07Mlyr.",Persija Jakarta
+Yusuf,Depan-Tengah,12 Jun 1993 (29),"Rp5,21Mlyr.",Persija Jakarta
+Ricky Cawor,Depan-Tengah,26 Jan 1998 (24),"Rp2,17Mlyr.",Persija Jakarta
+Taufik Hidayat,Depan-Tengah,16 Des 1999 (23),"Rp2,17Mlyr.",Persija Jakarta
+Ginanjar,Depan-Tengah,20 Nov 2003 (19),"Rp869,08Jt.",Persija Jakarta
+Ernando Ari,Kiper,27 Feb 2002 (20),"Rp3,04Mlyr.",Persebaya Surabaya
+Andhika Ramadhani,Kiper,5 Jan 1999 (23),"Rp2,61Mlyr.",Persebaya Surabaya
+Satria Tama,Kiper,23 Jan 1997 (25),"Rp2,17Mlyr.",Persebaya Surabaya
+Gede Dida,Kiper,23 Sep 1999 (23),"Rp173,82Jt.",Persebaya Surabaya
+Aditya Arya,Kiper,1 Jan 2004 (18),"Rp173,82Jt.",Persebaya Surabaya
+Rizky Ridho,Bek-Tengah,21 Nov 2001 (21),"Rp4,78Mlyr.",Persebaya Surabaya
+Léo Lelis,Bek-Tengah,15 Nov 1993 (29),"Rp4,35Mlyr.",Persebaya Surabaya
+Dandi Maulana,Bek-Tengah,17 Jun 1998 (24),"Rp2,61Mlyr.",Persebaya Surabaya
+Riswan Lauhim,Bek-Tengah,8 Agt 1998 (24),"Rp434,54Jt.",Persebaya Surabaya
+Altariq Ballah,Bek-Kiri,30 Des 2000 (21),"Rp2,61Mlyr.",Persebaya Surabaya
+Salman Alfarid,Bek-Kiri,16 Apr 2002 (20),"Rp1,30Mlyr.",Persebaya Surabaya
+Koko Ari,Bek-Kanan,9 Jan 2000 (22),"Rp3,04Mlyr.",Persebaya Surabaya
+Arizky Wahyu,Bek-Kanan,7 Agt 1998 (24),"Rp1,30Mlyr.",Persebaya Surabaya
+Arief Catur,Bek-Kanan,25 Jul 1999 (23),"Rp173,82Jt.",Persebaya Surabaya
+Alwi Slamat,Gel. Bertahan,16 Des 1998 (24),"Rp3,04Mlyr.",Persebaya Surabaya
+Muhammad Hidayat,Gel. Bertahan,26 Apr 1996 (26),"Rp2,61Mlyr.",Persebaya Surabaya
+Andre Oktaviansyah,Gel. Bertahan,23 Okt 2002 (20),"Rp2,17Mlyr.",Persebaya Surabaya
+Risky Dwiyan,Gel. Bertahan,1 Apr 1999 (23),"Rp173,82Jt.",Persebaya Surabaya
+Brylian Aldama,Gel. Tengah,23 Feb 2002 (20),"Rp1,74Mlyr.",Persebaya Surabaya
+Marselino Ferdinan,Gel. Serang,9 Sep 2004 (18),"Rp3,91Mlyr.",Persebaya Surabaya
+Higor Vidal,Gel. Serang,26 Sep 1996 (26),"Rp3,04Mlyr.",Persebaya Surabaya
+Michael Rumere,Gel. Serang,9 Des 1993 (29),"Rp1,30Mlyr.",Persebaya Surabaya
+Saiful,Gel. Serang,9 Sep 2002 (20),"Rp869,08Jt.",Persebaya Surabaya
+Wahyudi,Gel. Serang,12 Jul 2003 (19),"Rp434,54Jt.",Persebaya Surabaya
+Brayen Pondaag,Gel. Serang,17 Des 2001 (21),"Rp173,82Jt.",Persebaya Surabaya
+Sho Yamamoto,Sayap Kiri,12 Nov 1996 (26),"Rp3,48Mlyr.",Persebaya Surabaya
+Januar Eka Ramadhan,Sayap Kiri,31 Jul 1995 (27),"Rp1,74Mlyr.",Persebaya Surabaya
+Ruy Arianto,Sayap Kiri,7 Jul 2004 (18),"Rp869,08Jt.",Persebaya Surabaya
+Ahmad Nufiandani,Sayap Kanan,20 Nov 1994 (28),"Rp2,17Mlyr.",Persebaya Surabaya
+Supriadi,Sayap Kanan,23 Mei 2002 (20),"Rp1,74Mlyr.",Persebaya Surabaya
+Bramdani,Sayap Kanan,13 Jun 2003 (19),"Rp869,08Jt.",Persebaya Surabaya
+Julian Mancini,Sayap Kanan,17 Jul 1997 (25),"Rp869,08Jt.",Persebaya Surabaya
+Denny Agus,Sayap Kanan,11 Agt 2000 (22),"Rp347,63Jt.",Persebaya Surabaya
+Sílvio Junior,Depan-Tengah,4 Mei 1994 (28),"Rp4,35Mlyr.",Persebaya Surabaya
+Widi Syarief,Depan-Tengah,31 Jul 2003 (19),"Rp173,82Jt.",Persebaya Surabaya
+Muhammad Riyandi,Kiper,3 Jan 2000 (22),"Rp4,35Mlyr.",PERSIS Solo
+Gianluca Pandeynuwu,Kiper,9 Nov 1997 (25),"Rp2,61Mlyr.",PERSIS Solo
+Pancar,Kiper,5 Apr 2000 (22),"Rp869,08Jt.",PERSIS Solo
+Jaime,Bek-Tengah,26 Feb 1990 (32),"Rp5,21Mlyr.",PERSIS Solo
+Rian Miziar,Bek-Tengah,13 Okt 1990 (32),"Rp1,74Mlyr.",PERSIS Solo
+Andri Ibo,Bek-Tengah,3 Apr 1990 (32),"Rp1,30Mlyr.",PERSIS Solo
+Fabiano Beltrame,Bek-Tengah,29 Agt 1982 (40),"Rp434,54Jt.",PERSIS Solo
+Faqih Maulana,Bek-Tengah,11 Sep 2004 (18),"Rp173,82Jt.",PERSIS Solo
+Abduh Lestaluhu,Bek-Kiri,16 Okt 1993 (29),"Rp3,91Mlyr.",PERSIS Solo
+Kevin Gomes,Bek-Kiri,24 Jun 1998 (24),"Rp2,17Mlyr.",PERSIS Solo
+Gavin Kwan,Bek-Kanan,5 Apr 1996 (26),"Rp2,61Mlyr.",PERSIS Solo
+Eky Taufik,Bek-Kanan,15 Feb 1991 (31),"Rp1,74Mlyr.",PERSIS Solo
+Alfath Fathier,Bek-Kanan,6 Okt 1995 (27),"Rp1,30Mlyr.",PERSIS Solo
+Yulius Pamungkas,Bek-Kanan,16 Jul 2000 (22),"Rp434,54Jt.",PERSIS Solo
+Taufiq Febriyanto,Gel. Bertahan,12 Feb 1997 (25),"Rp2,61Mlyr.",PERSIS Solo
+Mohammad Kanu,Gel. Bertahan,27 Apr 2001 (21),"Rp2,61Mlyr.",PERSIS Solo
+Shulton Fajar,Gel. Bertahan,4 Feb 1994 (28),"Rp1,30Mlyr.",PERSIS Solo
+Aulia Lubis,Gel. Bertahan,27 Nov 2003 (19),"Rp434,54Jt.",PERSIS Solo
+Muhamad Valeron,Gel. Bertahan,1 Mei 2004 (18),"Rp434,54Jt.",PERSIS Solo
+Chrystna Bhagascara,Gel. Tengah,22 Jun 1998 (24),"Rp3,04Mlyr.",PERSIS Solo
+Sutanto Tan,Gel. Tengah,4 Mei 1994 (28),"Rp3,04Mlyr.",PERSIS Solo
+Alexis Messidoro,Gel. Serang,13 Mei 1997 (25),"Rp6,08Mlyr.",PERSIS Solo
+Ryo Matsumura,Gel. Serang,15 Jun 1994 (28),"Rp3,91Mlyr.",PERSIS Solo
+Zanadin Fariz,Gel. Serang,31 Mei 2004 (18),"Rp1,74Mlyr.",PERSIS Solo
+Arapenta Poerba,Gel. Serang,1 Nov 1998 (24),"Rp1,30Mlyr.",PERSIS Solo
+Irfan Jauhari,Sayap Kiri,31 Jan 2001 (21),"Rp3,48Mlyr.",PERSIS Solo
+Irfan Bachdim,Sayap Kiri,11 Agt 1988 (34),"Rp1,74Mlyr.",PERSIS Solo
+Rezam Baskoro,Sayap Kiri,24 Jul 1996 (26),"Rp434,54Jt.",PERSIS Solo
+Althaf Alrizky,Sayap Kanan,6 Jan 2003 (19),"Rp434,54Jt.",PERSIS Solo
+Hugo Samir,Sayap Kanan,25 Jan 2005 (17),"Rp173,82Jt.",PERSIS Solo
+Fernando Rodríguez,Depan-Tengah,11 Mei 1987 (35),"Rp4,35Mlyr.",PERSIS Solo
+Ferdinan Sinaga,Depan-Tengah,18 Sep 1988 (34),"Rp869,08Jt.",PERSIS Solo
+Samsul Arif,Depan-Tengah,14 Jan 1985 (37),"Rp869,08Jt.",PERSIS Solo
+Muhammad Natshir,Kiper,12 Mar 1993 (29),"Rp2,17Mlyr.",Dewa United FC
+Syaiful,Kiper,11 Jun 1993 (29),"Rp1,30Mlyr.",Dewa United FC
+Ahmad Gunandi,Kiper,1 Jan 2000 (22),"Rp434,54Jt.",Dewa United FC
+Mukhti Alhaq,Kiper,4 Mar 1994 (28),"Rp434,54Jt.",Dewa United FC
+Risto Mitrevski,Bek-Tengah,5 Okt 1991 (31),"Rp3,91Mlyr.",Dewa United FC
+Mochammad Zaenuri,Bek-Tengah,10 Jun 1995 (27),"Rp3,48Mlyr.",Dewa United FC
+Risna Prahalabenta,Bek-Tengah,9 Apr 1997 (25),"Rp2,61Mlyr.",Dewa United FC
+Achmad Faris,Bek-Tengah,7 Mar 1993 (29),"Rp1,74Mlyr.",Dewa United FC
+Anwar Sani,Bek-Kiri,19 Nov 1995 (27),"Rp3,04Mlyr.",Dewa United FC
+Nasir,Bek-Kiri,8 Okt 1995 (27),"Rp1,74Mlyr.",Dewa United FC
+Jajang Sukmara,Bek-Kiri,18 Nov 1988 (34),"Rp869,08Jt.",Dewa United FC
+Bhudiar Riza,Bek-Kanan,23 Mei 1995 (27),"Rp2,17Mlyr.",Dewa United FC
+Mokhamad Syaifuddin,Bek-Kanan,9 Agt 1992 (30),"Rp2,17Mlyr.",Dewa United FC
+Akbar Zakaria,Bek-Kanan,8 Jun 1993 (29),"Rp2,17Mlyr.",Dewa United FC
+Dias Angga,Bek-Kanan,6 Mei 1989 (33),"Rp1,30Mlyr.",Dewa United FC
+Lucas Ramos,Gel. Bertahan,18 Jan 1995 (27),"Rp2,17Mlyr.",Dewa United FC
+Ichsan Kurniawan,Gel. Bertahan,24 Des 1995 (27),"Rp1,74Mlyr.",Dewa United FC
+Asep Berlian,Gel. Bertahan,11 Jul 1990 (32),"Rp1,30Mlyr.",Dewa United FC
+Reksa Maulana,Gel. Bertahan,20 Mar 1999 (23),"Rp869,08Jt.",Dewa United FC
+Theo Numberi,Gel. Tengah,1 Sep 2001 (21),"Rp1,30Mlyr.",Dewa United FC
+Abi Defa,Gel. Tengah,5 Okt 1999 (23),"Rp869,08Jt.",Dewa United FC
+Majed Osman,Gel. Serang,9 Jun 1994 (28),"Rp5,65Mlyr.",Dewa United FC
+Rangga Muslim,Gel. Serang,13 Mei 1994 (28),"Rp3,48Mlyr.",Dewa United FC
+Suhandi,Gel. Serang,29 Okt 1991 (31),"Rp1,30Mlyr.",Dewa United FC
+Dennish,Gel. Serang,28 Jan 2001 (21),"Rp869,08Jt.",Dewa United FC
+Diya Ramadhan,Gel. Serang,27 Des 1996 (26),"Rp434,54Jt.",Dewa United FC
+Feby Eka,Sayap Kiri,12 Feb 1999 (23),"Rp3,04Mlyr.",Dewa United FC
+Sugeng Efendi,Sayap Kiri,31 Agt 1998 (24),"Rp2,17Mlyr.",Dewa United FC
+Subhan Fajri,Sayap Kiri,13 Mei 2003 (19),"Rp1,30Mlyr.",Dewa United FC
+Gufroni Al Maruf,Sayap Kanan,19 Jul 1997 (25),"Rp2,17Mlyr.",Dewa United FC
+Fahmi Al-Ayyubi,Sayap Kanan,21 Des 1995 (27),"Rp2,17Mlyr.",Dewa United FC
+Natanael Siringoringo,Sayap Kanan,18 Sep 1999 (23),"Rp1,30Mlyr.",Dewa United FC
+Prince Kallon,Sayap Kanan,3 Feb 2002 (20),"Rp869,08Jt.",Dewa United FC
+Karim Rossi,Depan-Tengah,1 Mei 1994 (28),"Rp4,35Mlyr.",Dewa United FC
+Rishadi Fauzi,Depan-Tengah,4 Jul 1990 (32),"Rp869,08Jt.",Dewa United FC
+Syahrul Trisna,Kiper,26 Nov 1995 (27),"Rp3,04Mlyr.",Persikabo 1973
+Mochammad Dicky,Kiper,4 Jun 1997 (25),"Rp1,74Mlyr.",Persikabo 1973
+Teddy Heri Setiawan,Kiper,21 Apr 1991 (31),"Rp869,08Jt.",Persikabo 1973
+Husna Al Malik,Kiper,13 Jun 2003 (19),"Rp173,82Jt.",Persikabo 1973
+Andy Setyo,Bek-Tengah,16 Sep 1997 (25),"Rp3,04Mlyr.",Persikabo 1973
+Lucão,Bek-Tengah,10 Jul 1993 (29),"Rp2,61Mlyr.",Persikabo 1973
+Didik Wahyu,Bek-Tengah,13 Feb 1994 (28),"Rp2,17Mlyr.",Persikabo 1973
+Syahrul Lasinari,Bek-Tengah,24 Des 1999 (23),"Rp1,30Mlyr.",Persikabo 1973
+Saepuloh Maulana,Bek-Tengah,22 Des 1988 (34),"Rp869,08Jt.",Persikabo 1973
+Reynaldi Angga Surya,Bek-Tengah,8 Feb 2001 (21),"Rp173,82Jt.",Persikabo 1973
+Syahrul Mustofa,Bek-Kiri,10 Sep 1997 (25),"Rp1,30Mlyr.",Persikabo 1973
+Denny Arwin,Bek-Kiri,2 Mar 1993 (29),"Rp434,54Jt.",Persikabo 1973
+Afin Bahrani,Bek-Kiri,22 Mei 2003 (19),"Rp173,82Jt.",Persikabo 1973
+Lucky Oktavianto,Bek-Kanan,5 Okt 1993 (29),"Rp2,17Mlyr.",Persikabo 1973
+Gilang Ginarsa,Bek-Kanan,14 Mei 1988 (34),"Rp1,30Mlyr.",Persikabo 1973
+Dava,Bek-Kanan,12 Apr 2000 (22),"Rp1,30Mlyr.",Persikabo 1973
+Manahati Lestusen,Gel. Bertahan,17 Des 1993 (29),"Rp3,48Mlyr.",Persikabo 1973
+Kemaluddin,Gel. Bertahan,28 Apr 1999 (23),"Rp1,30Mlyr.",Persikabo 1973
+Ryan Wiradinata,Gel. Bertahan,13 Jul 1990 (32),"Rp869,08Jt.",Persikabo 1973
+Tegar Infantrie,Gel. Bertahan,8 Mei 1999 (23),"Rp869,08Jt.",Persikabo 1973
+Munadi,Gel. Bertahan,25 Jan 1989 (33),"Rp434,54Jt.",Persikabo 1973
+Jovanni Renaldi,Gel. Bertahan,8 Jun 2003 (19),"Rp173,82Jt.",Persikabo 1973
+Bruno Dybal,Gel. Serang,3 Mar 1994 (28),"Rp3,04Mlyr.",Persikabo 1973
+Roni Sugeng,Gel. Serang,18 Apr 1998 (24),"Rp3,04Mlyr.",Persikabo 1973
+Tomoki Wada,Gel. Serang,30 Okt 1994 (28),"Rp2,61Mlyr.",Persikabo 1973
+Dalmiansyah,Gel. Serang,14 Okt 1997 (25),"Rp434,54Jt.",Persikabo 1973
+Aji Kurniawan,Sayap Kiri,1 Jul 2000 (22),"Rp1,30Mlyr.",Persikabo 1973
+Ryan Kurnia,Sayap Kanan,28 Jun 1996 (26),"Rp1,74Mlyr.",Persikabo 1973
+Agung Mulyadi,Sayap Kanan,23 Mar 1997 (25),"Rp869,08Jt.",Persikabo 1973
+Ali Koroy,Sayap Kanan,18 Sep 2001 (21),"Rp434,54Jt.",Persikabo 1973
+Bintang,Sayap Kanan,11 Apr 2004 (18),"Rp173,82Jt.",Persikabo 1973
+Gustavo Tocantins,Depan-Kedua,11 Jan 1996 (26),"Rp2,17Mlyr.",Persikabo 1973
+Dimas Drajad,Depan-Tengah,30 Mar 1997 (25),"Rp3,48Mlyr.",Persikabo 1973
+Yandi Sofyan,Depan-Tengah,25 Mei 1992 (30),"Rp869,08Jt.",Persikabo 1973
+Muhammad Ridwan,Kiper,26 Mar 1991 (31),"Rp2,61Mlyr.",PSS Sleman
+Ega Rizky,Kiper,23 Agt 1992 (30),"Rp2,61Mlyr.",PSS Sleman
+Jandia,Kiper,14 Jul 1987 (35),"Rp1,74Mlyr.",PSS Sleman
+Try Hamdani,Kiper,3 Jan 1994 (28),"Rp1,30Mlyr.",PSS Sleman
+Dimas Fani,Kiper,18 Mei 2000 (22),"Rp434,54Jt.",PSS Sleman
+Tallysson,Bek-Tengah,17 Jul 1995 (27),"Rp2,61Mlyr.",PSS Sleman
+Nurdiansyah,Bek-Tengah,18 Des 1998 (24),"Rp2,17Mlyr.",PSS Sleman
+Dedy Gusmawan,Bek-Tengah,27 Des 1985 (37),"Rp869,08Jt.",PSS Sleman
+Ifan Nanda,Bek-Tengah,29 Mar 2001 (21),"Rp869,08Jt.",PSS Sleman
+Purwaka Yudhi,Bek-Tengah,11 Apr 1984 (38),"Rp434,54Jt.",PSS Sleman
+Rizza Fadillah,Bek-Tengah,30 Jun 2002 (20),"Rp434,54Jt.",PSS Sleman
+Derry Rachman,Bek-Kiri,15 Des 1994 (28),"Rp2,17Mlyr.",PSS Sleman
+Syaiful Ramadhan,Bek-Kiri,30 Apr 1989 (33),"Rp1,30Mlyr.",PSS Sleman
+Marckho Merauje,Bek-Kanan,4 Des 1994 (28),"Rp3,04Mlyr.",PSS Sleman
+Bagus Nirwanto,Bek-Kanan,23 Mar 1993 (29),"Rp2,61Mlyr.",PSS Sleman
+Ibrahim Sanjaya,Bek-Kanan,26 Agt 1997 (25),"Rp2,17Mlyr.",PSS Sleman
+Muhammad Fariz,Bek-Kanan,2 Sep 2004 (18),"Rp173,82Jt.",PSS Sleman
+Jihad Ayoub,Gel. Bertahan,30 Mar 1995 (27),"Rp4,35Mlyr.",PSS Sleman
+Manda Cingi,Gel. Bertahan,29 Mei 1993 (29),"Rp2,17Mlyr.",PSS Sleman
+Wahyu Sukarta,Gel. Bertahan,12 Jun 1994 (28),"Rp1,74Mlyr.",PSS Sleman
+Kim Kurniawan,Gel. Tengah,23 Mar 1990 (32),"Rp2,17Mlyr.",PSS Sleman
+Dave Mustaine,Gel. Tengah,16 Nov 1992 (30),"Rp1,74Mlyr.",PSS Sleman
+Wahyu Boli,Gel. Tengah,29 Des 2002 (19),"Rp434,54Jt.",PSS Sleman
+Zé Valente,Gel. Serang,14 Mei 1994 (28),"Rp4,35Mlyr.",PSS Sleman
+Todd Ferre,Gel. Serang,15 Mar 1999 (23),"Rp3,04Mlyr.",PSS Sleman
+Fandi Utomo,Gel. Serang,2 Mar 1991 (31),"Rp2,17Mlyr.",PSS Sleman
+Arlan,Gel. Serang,18 Agt 2002 (20),"Rp434,54Jt.",PSS Sleman
+Rifky Suryawan,Sayap Kiri,7 Jun 1995 (27),"Rp2,17Mlyr.",PSS Sleman
+Boaz Solossa,Sayap Kiri,16 Mar 1986 (36),"Rp1,30Mlyr.",PSS Sleman
+Miftahul Hamdi,Sayap Kanan,13 Des 1995 (27),"Rp3,04Mlyr.",PSS Sleman
+Irkham Mila,Sayap Kanan,2 Mei 1998 (24),"Rp2,61Mlyr.",PSS Sleman
+Komarodin,Sayap Kanan,19 Jul 1995 (27),"Rp1,74Mlyr.",PSS Sleman
+Saddam Gaffar,Depan-Tengah,24 Sep 2001 (21),"Rp3,04Mlyr.",PSS Sleman
+Riki Dwi Saputro,Depan-Tengah,20 Feb 1995 (27),"Rp2,17Mlyr.",PSS Sleman
+Hokky Caraka,Depan-Tengah,21 Agt 2004 (18),"Rp1,74Mlyr.",PSS Sleman
+Ray Redondo,Kiper,19 Mar 1996 (26),"Rp1,74Mlyr.",PSIS Semarang
+Wahyu Tri Nugroho,Kiper,27 Jul 1986 (36),"Rp869,08Jt.",PSIS Semarang
+Yofandani Pranata,Kiper,9 Apr 2001 (21),"Rp869,08Jt.",PSIS Semarang
+Arifin Setyadi,Kiper,18 Feb 2002 (20),"Rp434,54Jt.",PSIS Semarang
+Alie Sesay,Bek-Tengah,2 Agt 1994 (28),"Rp5,21Mlyr.",PSIS Semarang
+Alfeandra Dewangga,Bek-Tengah,28 Jun 2001 (21),"Rp4,35Mlyr.",PSIS Semarang
+Wahyu Prasetyo,Bek-Tengah,21 Mar 1998 (24),"Rp3,48Mlyr.",PSIS Semarang
+Rio Saputro,Bek-Tengah,7 Des 1995 (27),"Rp1,74Mlyr.",PSIS Semarang
+Syiha Buddin,Bek-Tengah,5 Apr 2001 (21),"Rp434,54Jt.",PSIS Semarang
+Frendi Saputra,Bek-Kiri,27 Jan 1992 (30),"Rp2,61Mlyr.",PSIS Semarang
+Taufik Hidayat,Bek-Kiri,20 Mar 1993 (29),"Rp2,17Mlyr.",PSIS Semarang
+Fredyan Wahyu,Bek-Kanan,11 Apr 1998 (24),"Rp3,91Mlyr.",PSIS Semarang
+Riyan Ardiansyah,Bek-Kanan,14 Mei 1996 (26),"Rp1,74Mlyr.",PSIS Semarang
+Aqsha Saniskara,Bek-Kanan,26 Sep 2000 (22),"Rp869,08Jt.",PSIS Semarang
+Kartika Vedhayanto,Bek-Kanan,25 Jan 2002 (20),"Rp869,08Jt.",PSIS Semarang
+Eka Febri Setiawan,Gel. Bertahan,29 Feb 2000 (22),"Rp2,61Mlyr.",PSIS Semarang
+Damas Damar,Gel. Bertahan,18 Okt 2000 (22),"Rp434,54Jt.",PSIS Semarang
+Jonathan Cantillana,Gel. Tengah,26 Mei 1992 (30),"Rp5,65Mlyr.",PSIS Semarang
+Reza Irfana,Gel. Tengah,9 Jul 1999 (23),"Rp2,17Mlyr.",PSIS Semarang
+Guntur Triaji,Gel. Tengah,30 Jul 1993 (29),"Rp2,17Mlyr.",PSIS Semarang
+Delvin Rumbino,Gel. Tengah,3 Jun 1995 (27),"Rp1,74Mlyr.",PSIS Semarang
+Eduardus,Gel. Tengah,12 Okt 2003 (19),"Rp434,54Jt.",PSIS Semarang
+Ridho Syuhada,Gel. Serang,18 Jun 2004 (18),"Rp434,54Jt.",PSIS Semarang
+Taisei Marukawa,Sayap Kiri,30 Jan 1997 (25),"Rp7,82Mlyr.",PSIS Semarang
+Wawan Febrianto,Sayap Kiri,23 Feb 1994 (28),"Rp3,48Mlyr.",PSIS Semarang
+Hari Nur,Sayap Kiri,31 Jul 1989 (33),"Rp3,04Mlyr.",PSIS Semarang
+Oktafianus Fernando,Sayap Kanan,4 Okt 1993 (29),"Rp2,17Mlyr.",PSIS Semarang
+David Maulana,Sayap Kanan,2 Sep 1996 (26),"Rp1,30Mlyr.",PSIS Semarang
+Andreas Ado,Sayap Kanan,15 Mar 1997 (25),"Rp1,30Mlyr.",PSIS Semarang
+Carlos Fortes,Depan-Tengah,9 Nov 1994 (28),"Rp6,08Mlyr.",PSIS Semarang
+Farrel Arya,Depan-Tengah,1 Jul 2002 (20),"Rp869,08Jt.",PSIS Semarang
+Bahril Fahreza,Depan-Tengah,16 Feb 2001 (21),"Rp434,54Jt.",PSIS Semarang
+Gusti Setiawan,Depan-Tengah,24 Agt 1999 (23),"Rp173,82Jt.",PSIS Semarang
+Angga Saputro,Kiper,30 Nov 1993 (29),"Rp3,04Mlyr.",Borneo FC Samarinda
+Shahar Ginanjar,Kiper,4 Nov 1990 (32),"Rp1,30Mlyr.",Borneo FC Samarinda
+Zulfikri,Kiper,5 Nov 1999 (23),"Rp869,08Jt.",Borneo FC Samarinda
+Dwi Kuswanto,Kiper,16 Agt 1985 (37),"Rp869,08Jt.",Borneo FC Samarinda
+Daffa Fasya,Kiper,7 Mei 2004 (18),"Rp434,54Jt.",Borneo FC Samarinda
+Javlon Guseynov,Bek-Tengah,24 Jun 1991 (31),"Rp6,08Mlyr.",Borneo FC Samarinda
+Agung Prasetyo,Bek-Tengah,22 Des 1992 (30),"Rp3,04Mlyr.",Borneo FC Samarinda
+Wildansyah,Bek-Tengah,3 Jan 1987 (35),"Rp869,08Jt.",Borneo FC Samarinda
+Indra Mustafa,Bek-Tengah,28 Jun 1999 (23),"Rp869,08Jt.",Borneo FC Samarinda
+Wiranto,Bek-Tengah,14 Nov 1999 (23),"Rp434,54Jt.",Borneo FC Samarinda
+Leo Guntara,Bek-Kiri,17 Agt 1994 (28),"Rp3,04Mlyr.",Borneo FC Samarinda
+Irsan Lestaluhu,Bek-Kiri,4 Agt 1999 (23),"Rp1,74Mlyr.",Borneo FC Samarinda
+Alvin Derro Duaramuri,Bek-Kiri,19 Mei 2001 (21),"Rp869,08Jt.",Borneo FC Samarinda
+Ucok Ahya,Bek-Kiri,10 Nov 2000 (22),"Rp173,82Jt.",Borneo FC Samarinda
+Rifad Marasabessy,Bek-Kanan,7 Jul 1999 (23),"Rp3,48Mlyr.",Borneo FC Samarinda
+Diego Michiels,Bek-Kanan,8 Agt 1990 (32),"Rp2,61Mlyr.",Borneo FC Samarinda
+Fajar Fathur Rahman,Bek-Kanan,29 Mei 2002 (20),"Rp2,61Mlyr.",Borneo FC Samarinda
+Hendro Siswanto,Gel. Bertahan,12 Mar 1990 (32),"Rp3,48Mlyr.",Borneo FC Samarinda
+Komang Teguh,Gel. Bertahan,28 Apr 2002 (20),"Rp1,74Mlyr.",Borneo FC Samarinda
+Wahyudi Hamisi,Gel. Bertahan,28 Jul 1997 (25),"Rp1,74Mlyr.",Borneo FC Samarinda
+Kei Hirose,Gel. Tengah,20 Nov 1995 (27),"Rp5,21Mlyr.",Borneo FC Samarinda
+Misbakus Solikin,Gel. Tengah,1 Sep 1992 (30),"Rp1,74Mlyr.",Borneo FC Samarinda
+Sultan Samma,Gel. Tengah,13 Apr 1986 (36),"Rp434,54Jt.",Borneo FC Samarinda
+Jonathan Bustos,Gel. Serang,29 Jun 1994 (28),"Rp5,65Mlyr.",Borneo FC Samarinda
+Hambali Tolib,Gel. Serang,20 Jun 2000 (22),"Rp2,17Mlyr.",Borneo FC Samarinda
+Taufany Muslihuddin,Gel. Serang,24 Mar 2002 (20),"Rp869,08Jt.",Borneo FC Samarinda
+Muhammad Sihran,Sayap Kiri,8 Mar 1999 (23),"Rp2,17Mlyr.",Borneo FC Samarinda
+Stefano Lilipaly,Sayap Kanan,10 Jan 1990 (32),"Rp6,08Mlyr.",Borneo FC Samarinda
+Terens Puhiri,Sayap Kanan,13 Okt 1996 (26),"Rp3,48Mlyr.",Borneo FC Samarinda
+Arya Gerryan,Sayap Kanan,24 Okt 2001 (21),"Rp1,30Mlyr.",Borneo FC Samarinda
+Matheus Pato,Depan-Tengah,8 Jun 1995 (27),"Rp5,21Mlyr.",Borneo FC Samarinda
+Ahmad Nur Hardianto,Depan-Tengah,6 Mar 1995 (27),"Rp3,04Mlyr.",Borneo FC Samarinda
+Rabbani Tasnim,Depan-Tengah,26 Mei 2003 (19),"Rp1,30Mlyr.",Borneo FC Samarinda
+Andy Harjito,Depan-Tengah,27 Sep 2001 (21),"Rp434,54Jt.",Borneo FC Samarinda
+Adilson Maringá,Kiper,22 Agt 1990 (32),"Rp6,08Mlyr.",Arema FC
+Teguh Amiruddin,Kiper,13 Agt 1993 (29),"Rp1,30Mlyr.",Arema FC
+Andriyas Francisco,Kiper,8 Jul 2000 (22),"Rp434,54Jt.",Arema FC
+Sérgio Silva,Bek-Tengah,26 Feb 1994 (28),"Rp5,21Mlyr.",Arema FC
+Bagas Adi,Bek-Tengah,8 Mar 1997 (25),"Rp3,48Mlyr.",Arema FC
+Syaeful Anwar,Bek-Tengah,1 Des 1994 (28),"Rp2,61Mlyr.",Arema FC
+Hasim Kipuw,Bek-Tengah,9 Mei 1988 (34),"Rp869,08Jt.",Arema FC
+Ikhfanul Alam,Bek-Tengah,17 Feb 1992 (30),"Rp434,54Jt.",Arema FC
+Johan Alfarizi,Bek-Kiri,25 Mei 1990 (32),"Rp3,04Mlyr.",Arema FC
+Rendika Rama,Bek-Kiri,16 Mar 1993 (29),"Rp2,61Mlyr.",Arema FC
+Rizky Dwi,Bek-Kanan,22 Feb 1997 (25),"Rp3,48Mlyr.",Arema FC
+Achmad Figo,Bek-Kanan,25 Des 2001 (21),"Rp1,30Mlyr.",Arema FC
+Jayus Hariono,Gel. Bertahan,27 Jan 1997 (25),"Rp3,04Mlyr.",Arema FC
+Seiya Da Costa Lay,Gel. Bertahan,30 Sep 2001 (21),"Rp869,08Jt.",Arema FC
+Renshi Yamaguchi,Gel. Tengah,16 Sep 1992 (30),"Rp5,21Mlyr.",Arema FC
+Evan Dimas,Gel. Tengah,13 Mar 1995 (27),"Rp4,35Mlyr.",Arema FC
+Muhammad Rafli,Gel. Serang,24 Nov 1998 (24),"Rp3,91Mlyr.",Arema FC
+Gian Zola,Gel. Serang,5 Agt 1998 (24),"Rp3,04Mlyr.",Arema FC
+Arkhan Fikri,Gel. Serang,28 Des 2004 (18),"Rp1,74Mlyr.",Arema FC
+Adam Alis,Sayap Kiri,19 Des 1993 (29),"Rp4,35Mlyr.",Arema FC
+Kushedya Hari Yudo,Sayap Kiri,16 Jul 1993 (29),"Rp3,04Mlyr.",Arema FC
+Ilham Armaiyn,Sayap Kiri,10 Mei 1996 (26),"Rp2,61Mlyr.",Arema FC
+Irsyad Maulana,Sayap Kanan,27 Sep 1993 (29),"Rp3,04Mlyr.",Arema FC
+Dendi Santoso,Sayap Kanan,16 Mei 1990 (32),"Rp2,17Mlyr.",Arema FC
+Tito Hamzah,Sayap Kanan,10 Agt 2002 (20),"Rp869,08Jt.",Arema FC
+Abel Camará,Depan-Tengah,6 Jan 1990 (32),"Rp3,48Mlyr.",Arema FC
+Hanis Saghara,Depan-Tengah,8 Sep 1999 (23),"Rp3,04Mlyr.",Arema FC
+Dedik Setiawan,Depan-Tengah,27 Jun 1994 (28),"Rp3,04Mlyr.",Arema FC
+Rizky Darmawan,Kiper,5 Feb 1994 (28),"Rp1,74Mlyr.",Persita Tangerang
+Dhika Bayangkara,Kiper,29 Apr 1991 (31),"Rp1,74Mlyr.",Persita Tangerang
+Dede Sulaiman,Kiper,3 Mar 1986 (36),"Rp434,54Jt.",Persita Tangerang
+Muhamad Darmawan,Kiper,16 Mar 2002 (20),"Rp173,82Jt.",Persita Tangerang
+Andika Reynaldo,Bek,13 Agt 2001 (21),"Rp173,82Jt.",Persita Tangerang
+Mahmud Cahyono,Bek,6 Feb 2001 (21),"Rp173,82Jt.",Persita Tangerang
+Israel Wamiau,Bek-Tengah,28 Okt 1994 (28),"Rp2,17Mlyr.",Persita Tangerang
+Muhammad Rifqi,Bek-Tengah,6 Feb 1993 (29),"Rp2,17Mlyr.",Persita Tangerang
+Yohanes Kandaimu,Bek-Tengah,12 Agt 1995 (27),"Rp1,74Mlyr.",Persita Tangerang
+Mario Jardel,Bek-Tengah,7 Nov 2000 (22),"Rp1,30Mlyr.",Persita Tangerang
+Dominggus Fakdawer,Bek-Tengah,31 Des 1989 (32),"Rp869,08Jt.",Persita Tangerang
+Charisma Fathoni,Bek-Tengah,25 Feb 2001 (21),"Rp869,08Jt.",Persita Tangerang
+Agustín Cattáneo,Bek-Tengah,15 Agt 1988 (34),"Rp434,54Jt.",Persita Tangerang
+Duta Atapelwa,Bek-Tengah,28 Jan 2001 (21),"Rp434,54Jt.",Persita Tangerang
+Arif Setiawan,Bek-Kiri,4 Sep 1998 (24),"Rp869,08Jt.",Persita Tangerang
+Muhammad Toha,Bek-Kanan,30 Jun 1997 (25),"Rp3,04Mlyr.",Persita Tangerang
+Abu Rizal Maulana,Bek-Kanan,27 Agt 1994 (28),"Rp1,30Mlyr.",Persita Tangerang
+Irvan Febrianto,Bek-Kanan,9 Okt 1996 (26),"Rp1,30Mlyr.",Persita Tangerang
+Mohammad Afganiladin,Gelandang,22 Okt 2001 (21),"Rp173,82Jt.",Persita Tangerang
+Sin-young Bae,Gel. Bertahan,11 Jun 1992 (30),"Rp3,91Mlyr.",Persita Tangerang
+Rifky Dwi Septiawan,Gel. Bertahan,3 Feb 2002 (20),"Rp1,30Mlyr.",Persita Tangerang
+Nelson Alom,Gel. Bertahan,27 Okt 1991 (31),"Rp1,30Mlyr.",Persita Tangerang
+Fahreza Sudin,Gel. Bertahan,12 Agt 2000 (22),"Rp434,54Jt.",Persita Tangerang
+Paulo Sitanggang,Gel. Tengah,17 Okt 1995 (27),"Rp2,17Mlyr.",Persita Tangerang
+Dadang Apridianto,Gel. Tengah,24 Apr 1992 (30),"Rp1,30Mlyr.",Persita Tangerang
+Ezequiel Vidal,Gel. Serang,2 Agt 1995 (27),"Rp3,48Mlyr.",Persita Tangerang
+Elisa Basna,Gel. Serang,4 Feb 1996 (26),"Rp1,74Mlyr.",Persita Tangerang
+Flavio Cameron,Gel. Serang,2 Feb 2002 (20),"Rp869,08Jt.",Persita Tangerang
+Jack Brown,Gel. Serang,2 Nov 2001 (21),"Rp869,08Jt.",Persita Tangerang
+Imam Zakiri,Gel. Serang,19 Des 2001 (21),"Rp434,54Jt.",Persita Tangerang
+Heri Susanto,Sayap Kiri,15 Jul 1994 (28),"Rp1,74Mlyr.",Persita Tangerang
+Ghozali Siregar,Sayap Kiri,7 Jul 1992 (30),"Rp1,30Mlyr.",Persita Tangerang
+Wildan Ramdhani,Sayap Kanan,24 Des 1998 (24),"Rp1,30Mlyr.",Persita Tangerang
+Sirvi Arvani,Sayap Kanan,11 Mei 1992 (30),"Rp1,30Mlyr.",Persita Tangerang
+Ramiro Fergonzi,Depan-Tengah,14 Mei 1989 (33),"Rp2,61Mlyr.",Persita Tangerang
+Osas Saha,Depan-Tengah,8 Okt 1986 (36),"Rp434,54Jt.",Persita Tangerang
+Awan Setho,Kiper,19 Mar 1997 (25),"Rp3,91Mlyr.",Bhayangkara FC
+Aqil Savik,Kiper,17 Jan 1999 (23),"Rp1,74Mlyr.",Bhayangkara FC
+Indra Adi Nugraha,Kiper,8 Okt 1993 (29),"Rp434,54Jt.",Bhayangkara FC
+Panggih Sambodo,Kiper,3 Mar 1998 (24),"Rp434,54Jt.",Bhayangkara FC
+Anderson Salles,Bek-Tengah,16 Feb 1988 (34),"Rp4,78Mlyr.",Bhayangkara FC
+Yanto Basna,Bek-Tengah,12 Mar 1995 (27),"Rp3,04Mlyr.",Bhayangkara FC
+Asyraq Gufron,Bek-Tengah,9 Feb 1996 (26),"Rp2,17Mlyr.",Bhayangkara FC
+Nurhidayat,Bek-Tengah,5 Apr 1999 (23),"Rp1,30Mlyr.",Bhayangkara FC
+Dodi Irawan,Bek-Tengah,7 Mei 2003 (19),"Rp434,54Jt.",Bhayangkara FC
+Surya Maulana,Bek-Tengah,9 Jul 2001 (21),"Rp434,54Jt.",Bhayangkara FC
+Indra Kahfi,Bek-Tengah,5 Okt 1986 (36),"Rp434,54Jt.",Bhayangkara FC
+Aji Joko Sutopo,Bek-Tengah,31 Mar 1999 (23),"Rp173,82Jt.",Bhayangkara FC
+Fatchu Rochman,Bek-Kiri,28 Jun 1995 (27),"Rp2,17Mlyr.",Bhayangkara FC
+Abdul Rachman,Bek-Kiri,30 Jan 1988 (34),"Rp1,30Mlyr.",Bhayangkara FC
+Ruben Sanadi,Bek-Kiri,8 Jan 1987 (35),"Rp1,30Mlyr.",Bhayangkara FC
+Putu Gede,Bek-Kanan,7 Jun 1995 (27),"Rp3,04Mlyr.",Bhayangkara FC
+Sani Rizki,Bek-Kanan,7 Jan 1998 (24),"Rp3,04Mlyr.",Bhayangkara FC
+Alsan Sanda,Bek-Kanan,1 Agt 1992 (30),"Rp1,74Mlyr.",Bhayangkara FC
+Muhammad Hargianto,Gel. Bertahan,24 Jul 1996 (26),"Rp3,48Mlyr.",Bhayangkara FC
+Finky Pasamba,Gel. Bertahan,28 Apr 1993 (29),"Rp3,04Mlyr.",Bhayangkara FC
+Frezy AI Hudaifi,Gel. Bertahan,21 Apr 2004 (18),"Rp869,08Jt.",Bhayangkara FC
+TM Ichsan,Gel. Tengah,25 Nov 1997 (25),"Rp2,61Mlyr.",Bhayangkara FC
+David Maulana,Gel. Tengah,25 Feb 2002 (20),"Rp1,30Mlyr.",Bhayangkara FC
+Dimas Pamungkas,Gel. Tengah,31 Jul 2004 (18),"Rp869,08Jt.",Bhayangkara FC
+Wahyu Subo Seto,Gel. Serang,16 Jul 1993 (29),"Rp3,48Mlyr.",Bhayangkara FC
+Adam Najem,Gel. Serang,19 Jan 1995 (27),"Rp2,61Mlyr.",Bhayangkara FC
+Ichwan Tuharea,Gel. Serang,14 Nov 2000 (22),"Rp869,08Jt.",Bhayangkara FC
+Reza Kusuma,Gel. Serang,7 Feb 2000 (22),"Rp869,08Jt.",Bhayangkara FC
+Youness Mokhtar,Sayap Kiri,29 Agt 1991 (31),"Rp7,82Mlyr.",Bhayangkara FC
+Andik Vermansyah,Sayap Kanan,23 Nov 1991 (31),"Rp2,61Mlyr.",Bhayangkara FC
+Antoni Nugroho,Sayap Kanan,25 Feb 1994 (28),"Rp2,17Mlyr.",Bhayangkara FC
+Kasim Botan,Sayap Kanan,14 Apr 1997 (25),"Rp2,17Mlyr.",Bhayangkara FC
+Youssef Ezzejjari,Depan-Tengah,10 Mei 1993 (29),"Rp6,08Mlyr.",Bhayangkara FC
+Ezechiel Ndouasel,Depan-Tengah,22 Apr 1988 (34),"Rp4,35Mlyr.",Bhayangkara FC
+Dendy Sulistyawan,Depan-Tengah,12 Okt 1996 (26),"Rp3,04Mlyr.",Bhayangkara FC
+Titan Agung,Depan-Tengah,5 Jun 2001 (21),"Rp869,08Jt.",Bhayangkara FC
+Faiz Maulana,Depan-Tengah,15 Jul 2004 (18),"Rp434,54Jt.",Bhayangkara FC
+Teja Paku Alam,Kiper,14 Mar 1994 (28),"Rp4,35Mlyr.",PERSIB Bandung
+Fitrul Rustapa,Kiper,5 Jun 1995 (27),"Rp2,61Mlyr.",PERSIB Bandung
+Reky Rahayu,Kiper,8 Mei 1993 (29),"Rp1,30Mlyr.",PERSIB Bandung
+Made Wirawan,Kiper,1 Des 1981 (41),"Rp173,82Jt.",PERSIB Bandung
+Satrio Azhar,Kiper,16 Mei 2001 (21),"Rp173,82Jt.",PERSIB Bandung
+Nick Kuipers,Bek-Tengah,8 Okt 1992 (30),"Rp6,95Mlyr.",PERSIB Bandung
+Rachmat Irianto,Bek-Tengah,3 Sep 1999 (23),"Rp4,78Mlyr.",PERSIB Bandung
+Kakang Rudianto,Bek-Tengah,2 Feb 2003 (19),"Rp1,74Mlyr.",PERSIB Bandung
+Achmad Jufriyanto,Bek-Tengah,7 Feb 1987 (35),"Rp1,30Mlyr.",PERSIB Bandung
+Victor Igbonefo,Bek-Tengah,10 Okt 1985 (37),"Rp869,08Jt.",PERSIB Bandung
+Faris Abdul Hafizh,Bek-Tengah,21 Jul 2003 (19),"Rp434,54Jt.",PERSIB Bandung
+Zalnando,Bek-Kiri,25 Des 1996 (26),"Rp3,04Mlyr.",PERSIB Bandung
+Daisuke Sato,Bek-Kiri,20 Sep 1994 (28),"Rp2,61Mlyr.",PERSIB Bandung
+David Rumakiek,Bek-Kiri,18 Jul 1999 (23),"Rp2,17Mlyr.",PERSIB Bandung
+Henhen Herdiana,Bek-Kanan,10 Sep 1995 (27),"Rp3,48Mlyr.",PERSIB Bandung
+Bayu Fiqri,Bek-Kanan,10 Agt 2001 (21),"Rp2,17Mlyr.",PERSIB Bandung
+Eriyanto,Bek-Kanan,12 Mar 1996 (26),"Rp1,30Mlyr.",PERSIB Bandung
+Dedi Kusnandar,Gel. Bertahan,23 Jul 1991 (31),"Rp3,04Mlyr.",PERSIB Bandung
+Abdul Aziz,Gel. Bertahan,14 Feb 1994 (28),"Rp2,17Mlyr.",PERSIB Bandung
+Robi Darwis,Gel. Bertahan,2 Agt 2003 (19),"Rp434,54Jt.",PERSIB Bandung
+Diandra Diaz Dewari,Gel. Bertahan,1 Feb 2004 (18),"Rp434,54Jt.",PERSIB Bandung
+Marc Klok,Gel. Tengah,20 Apr 1993 (29),"Rp7,82Mlyr.",PERSIB Bandung
+Ardi Maulana,Gel. Tengah,25 Feb 2001 (21),"Rp869,08Jt.",PERSIB Bandung
+Ricky Kambuaya,Gel. Serang,5 Mei 1996 (26),"Rp4,78Mlyr.",PERSIB Bandung
+Beckham Putra,Gel. Serang,29 Okt 2001 (21),"Rp3,91Mlyr.",PERSIB Bandung
+Adzikry Fadlillah,Gel. Serang,26 Feb 2003 (19),"Rp434,54Jt.",PERSIB Bandung
+Ezra Walian,Sayap Kiri,22 Okt 1997 (25),"Rp4,78Mlyr.",PERSIB Bandung
+Frets Butuan,Sayap Kiri,4 Jun 1996 (26),"Rp3,48Mlyr.",PERSIB Bandung
+Erwin Ramdani,Sayap Kiri,11 Mar 1993 (29),"Rp2,17Mlyr.",PERSIB Bandung
+Ridwan Ansori,Sayap Kiri,13 Feb 2004 (18),"Rp434,54Jt.",PERSIB Bandung
+Ciro Alves,Sayap Kanan,18 Apr 1989 (33),"Rp6,52Mlyr.",PERSIB Bandung
+Febri Hariyadi,Sayap Kanan,19 Feb 1996 (26),"Rp3,91Mlyr.",PERSIB Bandung
+Ferdiansyah,Sayap Kanan,15 Jul 2003 (19),"Rp1,30Mlyr.",PERSIB Bandung
+Arsan Makarin,Sayap Kanan,8 Feb 2001 (21),"Rp434,54Jt.",PERSIB Bandung
+David da Silva,Depan-Tengah,12 Nov 1989 (33),"Rp3,91Mlyr.",PERSIB Bandung
+Joko Ribowo,Kiper,15 Mar 1989 (33),"Rp1,74Mlyr.",PS Barito Putera
+Adhitya Harlan,Kiper,17 Jun 1987 (35),"Rp1,30Mlyr.",PS Barito Putera
+Yogi Hermawan,Kiper,16 Jan 2003 (19),"Rp869,08Jt.",PS Barito Putera
+Norhalid,Kiper,14 Jun 1997 (25),"Rp434,54Jt.",PS Barito Putera
+Renan Alves,Bek-Tengah,17 Des 1992 (30),"Rp4,78Mlyr.",PS Barito Putera
+Donny Monim,Bek-Tengah,3 Mei 1993 (29),"Rp2,17Mlyr.",PS Barito Putera
+Muhamad Firly,Bek-Tengah,16 Jul 1999 (23),"Rp1,30Mlyr.",PS Barito Putera
+Yuswanto Aditya,Bek-Tengah,10 Mei 2000 (22),"Rp434,54Jt.",PS Barito Putera
+Muhammad Helmi,Bek-Tengah,2 Jun 2000 (22),"Rp173,82Jt.",PS Barito Putera
+Frank Sokoy,Bek-Kiri,16 Jul 1997 (25),"Rp1,74Mlyr.",PS Barito Putera
+Rendy Saputra,Bek-Kiri,16 Sep 1989 (33),"Rp434,54Jt.",PS Barito Putera
+Bagas Kaffa,Bek-Kanan,16 Jan 2002 (20),"Rp3,91Mlyr.",PS Barito Putera
+Nazar Nurzaidin,Bek-Kanan,24 Mei 1995 (27),"Rp1,30Mlyr.",PS Barito Putera
+Dendi Maulana,Bek-Kanan,19 Agt 1994 (28),"Rp1,30Mlyr.",PS Barito Putera
+Erik Sokoy,Bek-Kanan,13 Sep 1994 (28),"Rp434,54Jt.",PS Barito Putera
+Bayu Pradana,Gel. Bertahan,19 Apr 1991 (31),"Rp3,04Mlyr.",PS Barito Putera
+Luthfi Kamal,Gel. Bertahan,20 Jan 1999 (23),"Rp3,04Mlyr.",PS Barito Putera
+Rafi Syarahil,Gel. Bertahan,15 Nov 2000 (22),"Rp1,74Mlyr.",PS Barito Putera
+Ferdiansyah,Gel. Bertahan,24 Apr 2000 (22),"Rp1,30Mlyr.",PS Barito Putera
+Iqbal Gwijangge,Gel. Bertahan,28 Agt 2006 (16),,PS Barito Putera
+Aditiya Daffa,Gel. Tengah,11 Jan 2004 (18),"Rp434,54Jt.",PS Barito Putera
+Mike Ott,Gel. Serang,2 Mar 1995 (27),"Rp3,91Mlyr.",PS Barito Putera
+Ryota Noma,Gel. Serang,15 Nov 1991 (31),"Rp3,48Mlyr.",PS Barito Putera
+Buyung Ismu Lessy,Gel. Serang,8 Mei 1999 (23),"Rp1,30Mlyr.",PS Barito Putera
+Reza Zuhro,Gel. Serang,- (-),,PS Barito Putera
+Rafinha,Sayap Kiri,26 Apr 1990 (32),"Rp3,04Mlyr.",PS Barito Putera
+Slamet Budiono,Sayap Kiri,15 Mei 1995 (27),"Rp3,04Mlyr.",PS Barito Putera
+Rizky Pora,Sayap Kiri,22 Nov 1989 (33),"Rp2,61Mlyr.",PS Barito Putera
+Ambrizal Umanailo,Sayap Kanan,12 Jun 1996 (26),"Rp2,17Mlyr.",PS Barito Putera
+Dedi Hartono,Sayap Kanan,12 Nov 1987 (35),"Rp1,74Mlyr.",PS Barito Putera
+Rafael Silva,Depan-Tengah,8 Okt 1990 (32),"Rp3,48Mlyr.",PS Barito Putera
+Afdal Yusra,Depan-Tengah,4 Mei 1998 (24),"Rp1,74Mlyr.",PS Barito Putera
+Kahar Muzakkar,Depan-Tengah,5 Mei 1999 (23),"Rp869,08Jt.",PS Barito Putera
+Riski Kurniawan,Depan-Tengah,22 Nov 1999 (23),"Rp434,54Jt.",PS Barito Putera
+Rahmat Beri Santoso,Depan-Tengah,2 Feb 2004 (18),"Rp434,54Jt.",PS Barito Putera
+Harlan Suardi,Kiper,26 Jan 1999 (23),"Rp1,74Mlyr.",PSM Makassar
+Rivki Mokodompit,Kiper,5 Des 1988 (34),"Rp1,30Mlyr.",PSM Makassar
+Reza Arya Pratama,Kiper,18 Mei 2000 (22),"Rp1,30Mlyr.",PSM Makassar
+Ardiansyah,Kiper,28 Mar 2003 (19),"Rp434,54Jt.",PSM Makassar
+Yuran Fernandes,Bek-Tengah,19 Okt 1994 (28),"Rp3,04Mlyr.",PSM Makassar
+Erwin Gutawa,Bek-Tengah,6 Jul 1992 (30),"Rp1,74Mlyr.",PSM Makassar
+Agung Mannan,Bek-Tengah,6 Agt 1998 (24),"Rp1,30Mlyr.",PSM Makassar
+Abdul Rahman,Bek-Tengah,14 Mei 1988 (34),"Rp434,54Jt.",PSM Makassar
+Ibnul Mubarak,Bek-Tengah,14 Okt 2004 (18),"Rp434,54Jt.",PSM Makassar
+Yance Sayuri,Bek-Kiri,22 Sep 1997 (25),"Rp2,61Mlyr.",PSM Makassar
+Samuel Simanjuntak,Bek-Kiri,31 Jul 1999 (23),"Rp1,74Mlyr.",PSM Makassar
+Edgard Amping,Bek-Kiri,9 Jun 2003 (19),"Rp1,30Mlyr.",PSM Makassar
+Safrudin Tahar,Bek-Kanan,13 Des 1993 (29),"Rp2,61Mlyr.",PSM Makassar
+Dallen Doke,Bek-Kanan,2 Jan 1998 (24),"Rp1,74Mlyr.",PSM Makassar
+Mahdi Albaar,Bek-Kanan,27 Sep 1996 (26),"Rp1,30Mlyr.",PSM Makassar
+Muhammad Arfan,Gel. Bertahan,22 Jan 1998 (24),"Rp3,48Mlyr.",PSM Makassar
+Bryan Cesar,Gel. Bertahan,16 Mar 1993 (29),"Rp2,17Mlyr.",PSM Makassar
+Akbar Tanjung,Gel. Bertahan,16 Mei 1993 (29),"Rp1,74Mlyr.",PSM Makassar
+Ananda Raehan,Gel. Bertahan,17 Des 2003 (19),"Rp869,08Jt.",PSM Makassar
+Rasyid Bakri,Gel. Tengah,17 Jan 1991 (31),"Rp2,61Mlyr.",PSM Makassar
+Wiljan Pluim,Gel. Serang,4 Jan 1989 (33),"Rp5,65Mlyr.",PSM Makassar
+Rafli Asrul,Gel. Serang,19 Feb 2003 (19),"Rp869,08Jt.",PSM Makassar
+Kenzo Nambu,Sayap Kiri,22 Agt 1992 (30),"Rp2,61Mlyr.",PSM Makassar
+Vivi Asrizal,Sayap Kiri,1 Mei 1995 (27),"Rp2,17Mlyr.",PSM Makassar
+Dzaky Asraf,Sayap Kiri,6 Feb 2003 (19),"Rp869,08Jt.",PSM Makassar
+Yakob Sayuri,Sayap Kanan,22 Sep 1997 (25),"Rp3,04Mlyr.",PSM Makassar
+Rizky Eka Pratama,Sayap Kanan,24 Des 1999 (23),"Rp2,61Mlyr.",PSM Makassar
+Victor Dethan,Sayap Kanan,11 Jul 2004 (18),"Rp434,54Jt.",PSM Makassar
+Everton,Depan-Tengah,3 Jul 1993 (29),"Rp2,17Mlyr.",PSM Makassar
+Donald Bissa,Depan-Tengah,13 Des 1991 (31),"Rp1,74Mlyr.",PSM Makassar
+Ramadhan Sananta,Depan-Tengah,27 Nov 2002 (20),"Rp1,30Mlyr.",PSM Makassar
+Ricky Pratama,Depan-Tengah,6 Mei 2003 (19),"Rp434,54Jt.",PSM Makassar
+Mufli Hidayat,Depan-Tengah,7 Agt 2005 (17),,PSM Makassar
+Miswar Saputra,Kiper,19 Apr 1996 (26),"Rp2,61Mlyr.",Madura United FC
+Rendy Oscario,Kiper,7 Okt 1998 (24),"Rp2,17Mlyr.",Madura United FC
+Fakhrurrazi Quba,Kiper,29 Sep 1989 (33),"Rp1,30Mlyr.",Madura United FC
+Fawaid Ansory,Kiper,13 Sep 1999 (23),"Rp434,54Jt.",Madura United FC
+Karisma Ramadhany,Kiper,7 Nov 2003 (19),"Rp173,82Jt.",Madura United FC
+Cleberson,Bek-Tengah,17 Agt 1992 (30),"Rp5,21Mlyr.",Madura United FC
+Fachruddin Aryanto,Bek-Tengah,19 Feb 1989 (33),"Rp3,48Mlyr.",Madura United FC
+Kadek Raditya,Bek-Tengah,13 Jun 1999 (23),"Rp2,17Mlyr.",Madura United FC
+Abanda Rahman,Bek-Tengah,24 Agt 1990 (32),"Rp869,08Jt.",Madura United FC
+Reva Adi,Bek-Kiri,1 Sep 1996 (26),"Rp3,04Mlyr.",Madura United FC
+Novan Sasongko,Bek-Kiri,26 Nov 1989 (33),"Rp1,30Mlyr.",Madura United FC
+Fadillah Nur Rahman,Bek-Kiri,10 Feb 2002 (20),"Rp869,08Jt.",Madura United FC
+Alexvan Djin,Bek-Kanan,31 Des 1998 (23),"Rp2,61Mlyr.",Madura United FC
+Birrul Walidain,Bek-Kanan,14 Des 1995 (27),"Rp2,61Mlyr.",Madura United FC
+Guntur Ariyadi,Bek-Kanan,16 Mar 1987 (35),"Rp434,54Jt.",Madura United FC
+Ricki Ariansyah,Gel. Bertahan,10 Jun 1997 (25),"Rp2,61Mlyr.",Madura United FC
+Zulfiandi,Gel. Bertahan,17 Jul 1995 (27),"Rp2,61Mlyr.",Madura United FC
+Yu-jun Lee,Gel. Bertahan,26 Sep 1989 (33),"Rp1,30Mlyr.",Madura United FC
+Feby Ramzy,Gel. Bertahan,4 Feb 2002 (20),"Rp173,82Jt.",Madura United FC
+Jajá,Gel. Serang,18 Mar 1995 (27),"Rp6,95Mlyr.",Madura United FC
+Kevy Syahertian,Gel. Serang,23 Jun 1999 (23),"Rp1,30Mlyr.",Madura United FC
+Slamet Nurcahyono,Gel. Serang,11 Jul 1983 (39),"Rp434,54Jt.",Madura United FC
+Lulinha,Sayap Kiri,10 Apr 1990 (32),"Rp4,35Mlyr.",Madura United FC
+Rivaldi Bawuo,Sayap Kiri,13 Agt 1993 (29),"Rp2,17Mlyr.",Madura United FC
+Haris Tuharea,Sayap Kiri,22 Nov 1994 (28),"Rp1,74Mlyr.",Madura United FC
+Esteban Vizcarra,Sayap Kiri,11 Apr 1986 (36),"Rp869,08Jt.",Madura United FC
+Ronaldo Kwateh,Sayap Kanan,19 Okt 2004 (18),"Rp3,04Mlyr.",Madura United FC
+Malik Risaldi,Sayap Kanan,23 Okt 1996 (26),"Rp2,61Mlyr.",Madura United FC
+Bayu Gatra,Sayap Kanan,12 Nov 1991 (31),"Rp1,74Mlyr.",Madura United FC
+Pedro Henrique,Depan-Tengah,17 Jan 1992 (30),"Rp1,74Mlyr.",Madura United FC
+Beto,Depan-Tengah,31 Des 1980 (41),"Rp434,54Jt.",Madura United FC
+Make Aldo Maulidino,Depan-Tengah,22 Jul 1998 (24),"Rp434,54Jt.",Madura United FC
+Adi Satryo,Kiper,7 Jul 2001 (21),"Rp2,61Mlyr.",Persik Kediri
+Dikri Yusron,Kiper,8 Jan 1995 (27),"Rp1,74Mlyr.",Persik Kediri
+Kartika Ajie,Kiper,20 Jun 1996 (26),"Rp1,74Mlyr.",Persik Kediri
+Djiwa Herlando,Kiper,30 Mei 2004 (18),"Rp173,82Jt.",Persik Kediri
+Arthur Silva,Bek-Tengah,20 Feb 1990 (32),"Rp3,91Mlyr.",Persik Kediri
+Sabillah,Bek-Tengah,10 Mei 1994 (28),"Rp2,17Mlyr.",Persik Kediri
+Mario Yagalo,Bek-Tengah,21 Apr 1993 (29),"Rp2,17Mlyr.",Persik Kediri
+Fandry Imbiri,Bek-Tengah,5 Apr 1991 (31),"Rp1,30Mlyr.",Persik Kediri
+Yusuf Meilana,Bek-Kiri,4 Mei 1998 (24),"Rp2,17Mlyr.",Persik Kediri
+Dany Saputra,Bek-Kiri,1 Jan 1991 (31),"Rp1,74Mlyr.",Persik Kediri
+Samsul Arifin,Bek-Kiri,3 Jan 1992 (30),"Rp1,74Mlyr.",Persik Kediri
+Agil Munawar,Bek-Kanan,10 Jun 1996 (26),"Rp2,17Mlyr.",Persik Kediri
+Muhammad Rifaldi,Bek-Kanan,3 Okt 1996 (26),"Rp1,74Mlyr.",Persik Kediri
+Arthur Irawan,Gel. Bertahan,3 Mar 1993 (29),"Rp2,17Mlyr.",Persik Kediri
+Muhammad Taufiq,Gel. Bertahan,29 Nov 1986 (36),"Rp434,54Jt.",Persik Kediri
+Rohit Chand,Gel. Tengah,1 Mar 1992 (30),"Rp5,65Mlyr.",Persik Kediri
+Adi Eko,Gel. Tengah,18 Jan 1994 (28),"Rp2,61Mlyr.",Persik Kediri
+Fitra Ridwan,Gel. Tengah,16 Mar 1994 (28),"Rp1,74Mlyr.",Persik Kediri
+Renan Silva,Gel. Serang,27 Jan 1989 (33),"Rp4,78Mlyr.",Persik Kediri
+Bayu Otto,Gel. Serang,15 Okt 1999 (23),"Rp2,17Mlyr.",Persik Kediri
+Rendy Juliansyah,Gel. Serang,27 Jul 2002 (20),"Rp434,54Jt.",Persik Kediri
+Riyatno Abiyoso,Sayap Kiri,18 Jan 1999 (23),"Rp3,04Mlyr.",Persik Kediri
+Yohanes Pahabol,Sayap Kiri,16 Jan 1992 (30),"Rp2,61Mlyr.",Persik Kediri
+Rahel Radiansyah,Sayap Kiri,22 Mei 1991 (31),"Rp1,74Mlyr.",Persik Kediri
+Faris Aditama,Sayap Kiri,19 Feb 1988 (34),"Rp869,08Jt.",Persik Kediri
+Arsyad Yusgiantoro,Sayap Kanan,11 Jul 1996 (26),"Rp2,17Mlyr.",Persik Kediri
+Muhammad Ridwan,Depan-Tengah,13 Jun 2000 (22),"Rp2,61Mlyr.",Persik Kediri
+Joanderson,Depan-Tengah,16 Feb 1996 (26),"Rp2,61Mlyr.",Persik Kediri
+Jeam Kelly Sroyer,Depan-Tengah,11 Des 2002 (20),"Rp1,74Mlyr.",Persik Kediri
+Sutan Zico,Depan-Tengah,7 Apr 2002 (20),"Rp1,30Mlyr.",Persik Kediri
+Hilmansyah,Kiper,25 Mei 1997 (25),"Rp3,04Mlyr.",RANS Nusantara FC
+Wahyudi,Kiper,24 Agt 1998 (24),"Rp1,74Mlyr.",RANS Nusantara FC
+Wawan Hendrawan,Kiper,8 Jan 1983 (39),"Rp434,54Jt.",RANS Nusantara FC
+Fiqri Ntong,Kiper,27 Mei 2003 (19),"Rp173,82Jt.",RANS Nusantara FC
+Victor Salinas,Bek-Tengah,20 Mar 1992 (30),"Rp4,35Mlyr.",RANS Nusantara FC
+Arif Satria,Bek-Tengah,17 Sep 1995 (27),"Rp3,91Mlyr.",RANS Nusantara FC
+Hamdan Zamzani,Bek-Tengah,21 Jul 1997 (25),"Rp1,30Mlyr.",RANS Nusantara FC
+Herwin Saputra,Bek-Tengah,10 Jan 1991 (31),"Rp869,08Jt.",RANS Nusantara FC
+O.K. John,Bek-Tengah,22 Jul 1983 (39),"Rp434,54Jt.",RANS Nusantara FC
+Meru Kimura,Bek-Tengah,27 Jun 2001 (21),"Rp434,54Jt.",RANS Nusantara FC
+Edo Febriansyah,Bek-Kiri,25 Jul 1997 (25),"Rp3,91Mlyr.",RANS Nusantara FC
+Saddam Tenang,Bek-Kiri,2 Feb 1994 (28),"Rp1,30Mlyr.",RANS Nusantara FC
+Ady Setiawan,Bek-Kanan,10 Sep 1994 (28),"Rp3,04Mlyr.",RANS Nusantara FC
+Alfin Tuasalamony,Bek-Kanan,17 Mei 1993 (29),"Rp2,61Mlyr.",RANS Nusantara FC
+Kurniawan Karman,Bek-Kanan,29 Mar 1991 (31),"Rp1,30Mlyr.",RANS Nusantara FC
+Sandi Sute,Gel. Bertahan,21 Sep 1992 (30),"Rp2,17Mlyr.",RANS Nusantara FC
+Fadilla Akbar,Gel. Bertahan,8 Sep 2001 (21),"Rp1,74Mlyr.",RANS Nusantara FC
+Mitsuru Maruoka,Gel. Tengah,6 Jan 1996 (26),"Rp3,04Mlyr.",RANS Nusantara FC
+Arthur Bonai,Gel. Tengah,3 Agt 1991 (31),"Rp2,17Mlyr.",RANS Nusantara FC
+Gama Imbiri,Gel. Tengah,29 Okt 1997 (25),"Rp434,54Jt.",RANS Nusantara FC
+Makan Konate,Gel. Serang,10 Nov 1991 (31),"Rp4,35Mlyr.",RANS Nusantara FC
+Ikhsan Nul Zikrak,Gel. Serang,8 Nov 2002 (20),"Rp1,30Mlyr.",RANS Nusantara FC
+Sumarna,Gel. Serang,1 Mar 1995 (27),"Rp434,54Jt.",RANS Nusantara FC
+David Laly,Sayap Kiri,7 Nov 1991 (31),"Rp1,30Mlyr.",RANS Nusantara FC
+Romadona,Sayap Kiri,5 Mar 2003 (19),,RANS Nusantara FC
+Jujun Junaidi,Sayap Kanan,30 Des 1998 (23),"Rp1,74Mlyr.",RANS Nusantara FC
+Defri Rizki,Sayap Kanan,10 Des 1988 (34),"Rp869,08Jt.",RANS Nusantara FC
+Zidane Pattiiha,Sayap Kanan,26 Apr 2000 (22),"Rp173,82Jt.",RANS Nusantara FC
+Wander Luiz,Depan-Tengah,17 Feb 1992 (30),"Rp4,35Mlyr.",RANS Nusantara FC
+Septian Bagaskara,Depan-Tengah,26 Sep 1997 (25),"Rp2,61Mlyr.",RANS Nusantara FC
+Syamsir Alam,Depan-Tengah,6 Jul 1992 (30),"Rp173,82Jt.",RANS Nusantara FC
+Nadeo Argawinata,Kiper,9 Mar 1997 (25),"Rp4,78Mlyr.",Bali United FC
+Muhammad Ridho,Kiper,21 Jan 1991 (31),"Rp2,61Mlyr.",Bali United FC
+Rakasurya Handika,Kiper,13 Jun 2000 (22),"Rp869,08Jt.",Bali United FC
+Komang Aryantara,Kiper,1 Apr 2005 (17),"Rp173,82Jt.",Bali United FC
+Willian Pacheco,Bek-Tengah,28 Mar 1992 (30),"Rp5,65Mlyr.",Bali United FC
+Haudi Abdillah,Bek-Tengah,20 Apr 1993 (29),"Rp2,61Mlyr.",Bali United FC
+Komang Tri Arta,Bek-Tengah,30 Sep 2001 (21),"Rp1,30Mlyr.",Bali United FC
+Jajang Mulyana,Bek-Tengah,23 Okt 1988 (34),"Rp1,30Mlyr.",Bali United FC
+Gunawan Dwi Cahyo,Bek-Tengah,20 Apr 1989 (33),"Rp869,08Jt.",Bali United FC
+Leonard Tupamahu,Bek-Tengah,9 Jul 1983 (39),"Rp434,54Jt.",Bali United FC
+Ricky Fajrin,Bek-Kiri,6 Sep 1995 (27),"Rp4,78Mlyr.",Bali United FC
+Gede Agus,Bek-Kiri,1 Jun 2002 (20),"Rp434,54Jt.",Bali United FC
+Ardi Idrus,Bek-Kanan,22 Jan 1993 (29),"Rp3,48Mlyr.",Bali United FC
+Made Andhika,Bek-Kanan,12 Jul 1996 (26),"Rp3,48Mlyr.",Bali United FC
+Novri Setiawan,Bek-Kanan,11 Nov 1993 (29),"Rp2,61Mlyr.",Bali United FC
+Brwa Nouri,Gel. Bertahan,23 Jan 1987 (35),"Rp6,52Mlyr.",Bali United FC
+Ahmad Agung,Gel. Bertahan,9 Mar 1996 (26),"Rp2,61Mlyr.",Bali United FC
+Hariono,Gel. Bertahan,2 Okt 1985 (37),"Rp869,08Jt.",Bali United FC
+Made Tito,Gel. Bertahan,31 Jul 2003 (19),"Rp173,82Jt.",Bali United FC
+Sidik Saimima,Gel. Tengah,4 Jun 1997 (25),"Rp2,61Mlyr.",Bali United FC
+Rizky Pellu,Gel. Tengah,26 Jun 1992 (30),"Rp2,61Mlyr.",Bali United FC
+Fadil Sausu,Gel. Tengah,19 Apr 1985 (37),"Rp869,08Jt.",Bali United FC
+Éber Bessa,Gel. Serang,21 Mar 1992 (30),"Rp5,65Mlyr.",Bali United FC
+Kadek Agung,Gel. Serang,25 Jun 1998 (24),"Rp3,48Mlyr.",Bali United FC
+Ramdani Lestaluhu,Gel. Serang,5 Nov 1991 (31),"Rp1,74Mlyr.",Bali United FC
+Yabes Roni,Sayap Kiri,6 Feb 1995 (27),"Rp2,61Mlyr.",Bali United FC
+Rahmat,Sayap Kiri,28 Mei 1988 (34),"Rp1,74Mlyr.",Bali United FC
+Privat Mbarga,Sayap Kanan,7 Jan 1992 (30),"Rp5,21Mlyr.",Bali United FC
+Irfan Jaya,Sayap Kanan,1 Mei 1996 (26),"Rp4,35Mlyr.",Bali United FC
+Hendra Bayauw,Sayap Kanan,23 Mar 1993 (29),"Rp1,74Mlyr.",Bali United FC
+Ilija Spasojević,Depan-Tengah,11 Sep 1987 (35),"Rp5,65Mlyr.",Bali United FC
+Lerby,Depan-Tengah,21 Nov 1991 (31),"Rp2,61Mlyr.",Bali United FC
+Kadek Dimas,Depan-Tengah,24 Sep 2001 (21),"Rp434,54Jt.",Bali United FC
